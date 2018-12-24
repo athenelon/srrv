@@ -1,0 +1,1 @@
+studentation.o: studentation.c
